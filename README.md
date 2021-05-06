@@ -1,8 +1,6 @@
 
 <div align="center">
 
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
-
 <strong>Ticker-UI is a React component library basd in theme-ui which provides developers with the easiest possible way of building React apps with.</strong>
 
 </div>
