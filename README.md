@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://orbit.kiwi" target="_blank">
-    <img alt="orbit-components" src="ticker-ui.png" srcset="https://orbit.kiwi/files/orbit-components@2x.png 2x" height="150px" />
+    <img alt="orbit-components" src="ticker-ui.png" srcset="https://ticker.ui" height="150px" />
   </a>
 </div>
 
