@@ -2,7 +2,7 @@
 <div align="center">
 
 <div align="center">
-  <a href="https://orbit.kiwi" target="_blank">
+  <a href="https://ticker-ui.github.com" target="_blank">
     <img alt="orbit-components" src="ticker-ui.png" srcset="https://ticker.ui" height="150px" />
   </a>
 </div>
