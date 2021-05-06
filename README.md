@@ -1,6 +1,12 @@
 
 <div align="center">
 
+<div align="center">
+  <a href="https://orbit.kiwi" target="_blank">
+    <img alt="orbit-components" src="ticker-ui.png" srcset="https://orbit.kiwi/files/orbit-components@2x.png 2x" height="150px" />
+  </a>
+</div>
+
 <strong>Ticker-UI is a React component library basd in theme-ui which provides developers with the easiest possible way of building React apps with.</strong>
 
 </div>
