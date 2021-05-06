@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<strong>Ticker-UI is a React component library basd in theme-ui which provides developers with the easiest possible way of building React apps with.</strong>
+<strong>Ticker-UI is a React component library basd on theme-ui which provides developers with the easiest possible way of building React apps.</strong>
 
 </div>
 
