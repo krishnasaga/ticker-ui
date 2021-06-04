@@ -21,10 +21,10 @@ Add them to your project by running:
 
 ```bash
 // with npm
-npm install @kiwicom/orbit-components
+npm install @biginvest/ticker-ui
 
 // with yarn
-yarn add @kiwicom/orbit-components
+yarn add@biginvest/ticker-ui
 ```
 
 Don't forget to install the [styled-components](https://github.com/styled-components/styled-components/) `^4.0.0` also.
@@ -46,13 +46,8 @@ Or via CSS:
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700");
 ```
 
-2. Include any of our components in your project and use it:
 
-```jsx
-import Alert from "@kiwicom/orbit-components/lib/Alert";
 
-<Alert>Hello World!</Alert>;
-```
 
 If you want to use custom theme or dictionary inside your project, it's necessary to wrap your app into `<ThemeProvider>`. See [this document](https://github.com/kiwicom/orbit/tree/master/packages/orbit-components/src/ThemeProvider/README.md) for more information.
 
